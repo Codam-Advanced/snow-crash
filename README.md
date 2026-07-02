@@ -6,7 +6,7 @@ Throughout the project, you will discover and exploit vulnerabilities across mul
 
 ## Project Structure
 
-The project consists of **10 mandatory levels** and **4 bonus levels**. Each level presents a unique challenge that requires identifying and exploiting a specific vulnerability or security misconfiguration.
+The project consists of **10 mandatory levels** and **5 bonus levels**. Each level presents a unique challenge that requires identifying and exploiting a specific vulnerability or security misconfiguration.
 
 The central objective of **Snow Crash** is **user privilege escalation**. For every level, your goal is to obtain the privileges of the corresponding `flagXX` user. Once you have successfully escalated your privileges, you can retrieve the password for the next level by running:
 
