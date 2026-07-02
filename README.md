@@ -53,14 +53,12 @@ Every level in this repository follows the same structure:
 ```text
 levelXX/
 ├── flag
-├── walkthrough
 └── Resources/
 ```
 
 | File            | Description                                                                 |
 | --------------- | --------------------------------------------------------------------------- |
-| **flag**        | The recovered token for the next level.                                     |
-| **walkthrough** | A detailed explanation of the solution and exploitation process.            |
+| **flag**        | The recovered token for the next level.                                     |        |
 | **Resources**   | Supporting files, notes, scripts, and references used during the challenge. |
 
 ---
